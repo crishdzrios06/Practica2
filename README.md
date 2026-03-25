@@ -1,5 +1,9 @@
 # Práctica: Autómatas Finitos (AFD, AFN y AFN-λ)
 
+## Alumnos
+-López Toledo Kevin Antonio
+-Hernández Ríos Cristian Sebastian
+
 ## Introducción
 
 La presente práctica aborda la construcción, análisis e implementación de autómatas finitos como herramientas formales para el reconocimiento de lenguajes definidos sobre distintos alfabetos. Se consideran tres modelos fundamentales: Autómatas Finitos Deterministas (AFD), Autómatas Finitos No Deterministas (AFN) y Autómatas Finitos con transiciones λ (AFN-λ).
